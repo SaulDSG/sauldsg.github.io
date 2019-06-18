@@ -6,5 +6,5 @@ body {background-color: blue; color: black; text-align: center;  }
 .cancion {margin: auto; padding: 20px 0; text-align: left ; width: 400px;}
 #parrafo1:first-letter {float:left;font-size:58px;line-height:1;margin:2px 5px 0 0;}
 p:nth-last-child(2){background:red}
-p:nth-last-child(3){background:purple}
-.mitexto1 {font-size: 80px; font-family: 'Aguafina Script', cursive;}
+p:nth-last-child(4){background:purple}
+#mitexto1 {font-size: 80px; font-family: 'Aguafina Script', cursive;}
