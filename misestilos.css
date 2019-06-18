@@ -4,4 +4,4 @@ p {font-size: 15px ; line-height: 1.5; margin-bottom: 15px ; }
 body {background-color: blue; color: black; text-align: center;  }
 #autor {font-style: italic; font-size: 30px; margin-bottom: 30px; font-family:'Kotta One', serif; }
 .cancion {margin: auto; padding: 20px 0; text-align: left ; width: 400px;}
-#Parrafo1 :first-letter {float: left; font-size: 38px ; line-height: 1 ;margin: 2px 5px 0 0;}
+#Parrafo1:first-letter {float: left; font-size: 38px ; line-height: 1 ;margin: 2px 5px 0 0;}
