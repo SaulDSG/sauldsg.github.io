@@ -2,5 +2,5 @@
 }
 .transition:hover{ width: 100%; height: 200px; margin: 0 auto;
 }
-.titulo {font-size: 50px; font-family: 'Swanky and Moo Moo', cursive;}
+#titulo {font-size: 50px; font-family: 'Swanky and Moo Moo', cursive;}
 body {background-color: rgb(255, 51, 0); color: rgb(0, 192, 26); text-align: center;  }
